@@ -4702,12 +4702,12 @@ About Section
 }
 
 .about-section .image-3{
-  position: absolute;
+  position: relative;
   display: inline-block;
-  margin-top: 0;
+  margin-top: 10;
   right: 20px;
   z-index: 3;
-  bottom: -70px;
+  bottom: 10px;
 }
 
 .about-section .image-3 .hex{
